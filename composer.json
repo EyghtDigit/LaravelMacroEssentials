@@ -1,0 +1,19 @@
+{
+    "name": "eyghtdigit/macro-essentials",
+    "description": "Laravel macro essentials",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eyghtdigit\\MacroEssentials\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "avgkudey",
+            "email": "40860028+avgkudey@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.0"
+    }
+}
