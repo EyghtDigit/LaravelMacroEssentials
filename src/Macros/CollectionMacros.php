@@ -2,8 +2,10 @@
 
 namespace Eyghtdigit\MacroEssentials\Macros;
 
-class ArrayMacros
+class CollectionMacros
 {
+
+
 
     public function sendToEnd()
     {
@@ -17,4 +19,5 @@ class ArrayMacros
 
         };
     }
+
 }
